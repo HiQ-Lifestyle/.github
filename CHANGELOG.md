@@ -27,6 +27,9 @@ affect what reaches the site.
   correctly.
 - **Organiser pages** each have a single canonical address, so search engines
   stop treating one organiser as several duplicate pages.
+- **A mountain landscape at the bottom of every page.** The footer now ends in
+  an illustrated scene of forest, peaks and hikers on a trail. In dark mode it
+  sits on the night sky, and the sun becomes a moon.
 
 ### Behind the scenes
 - Editors have a new review queue for posts collected from public outdoor
